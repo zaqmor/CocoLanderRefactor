@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakingShapes", "MakingShapes\MakingShapes\MakingShapes.csproj", "{1764FD8B-CCE7-469F-9278-CC69F48A65C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakingShapesContent", "MakingShapes\MakingShapesContent\MakingShapesContent.contentproj", "{FFEAFD32-B18E-45C0-943D-075D2D285A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocoLander", "CocoLander\CocoLander\CocoLander.csproj", "{526AC42E-095F-4683-82D4-F1187C1F3E46}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CocoLanderContent", "CocoLander\CocoLanderContent\CocoLanderContent.contentproj", "{E9F67CBB-3142-4769-A5A4-B61347F64C65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1764FD8B-CCE7-469F-9278-CC69F48A65C8}.Debug|x86.ActiveCfg = Debug|x86
+		{1764FD8B-CCE7-469F-9278-CC69F48A65C8}.Debug|x86.Build.0 = Debug|x86
+		{1764FD8B-CCE7-469F-9278-CC69F48A65C8}.Release|x86.ActiveCfg = Release|x86
+		{1764FD8B-CCE7-469F-9278-CC69F48A65C8}.Release|x86.Build.0 = Release|x86
+		{FFEAFD32-B18E-45C0-943D-075D2D285A10}.Debug|x86.ActiveCfg = Debug|x86
+		{FFEAFD32-B18E-45C0-943D-075D2D285A10}.Release|x86.ActiveCfg = Release|x86
+		{526AC42E-095F-4683-82D4-F1187C1F3E46}.Debug|x86.ActiveCfg = Debug|x86
+		{526AC42E-095F-4683-82D4-F1187C1F3E46}.Debug|x86.Build.0 = Debug|x86
+		{526AC42E-095F-4683-82D4-F1187C1F3E46}.Release|x86.ActiveCfg = Release|x86
+		{526AC42E-095F-4683-82D4-F1187C1F3E46}.Release|x86.Build.0 = Release|x86
+		{E9F67CBB-3142-4769-A5A4-B61347F64C65}.Debug|x86.ActiveCfg = Debug|x86
+		{E9F67CBB-3142-4769-A5A4-B61347F64C65}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
